@@ -16,5 +16,5 @@ Due Date: Thursday, March 18, 2021 11:59 PM
 
 ## Authors
 AcedYu
-- [Link to Github] (https://github.com/AcedYu)
+- [Link to Github](https://github.com/AcedYu)
 - [Link to LinkedIn](https://www.linkedin.com/in/alex-yu-3712811b9/)
