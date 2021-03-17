@@ -15,4 +15,6 @@ Due Date: Thursday, March 18, 2021 11:59 PM
 * [See Live Site](https://acedyu.github.io/Code-Refactor/)
 
 ## Authors
-[AcedYu](https://github.com/AcedYu)
+AcedYu
+- [Link to Github] (https://github.com/AcedYu)
+- [Link to LinkedIn](https://www.linkedin.com/in/alex-yu-3712811b9/)
