@@ -1,7 +1,6 @@
 # Code-Refactor
-For assignment:
-
-Title: 1: Code Refactor
+This assignment was assigned by the U.C. Berkelely Extension Full-time Full Stack Flex Boot Camp.
+This is assignment 1 for the program. In this assignment I made commits and changes and the page into semantic HTML.
 
 Due Date: Thursday, March 18, 2021 11:59 PM
 
